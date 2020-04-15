@@ -1,0 +1,8 @@
+This is a parser that transforms benchmark instances into PDDL format.
+Benchmark instances available at https://movingai.com/benchmarks/mapf.html
+
+To set up the file structure use "make folders".
+To compile the generator use "make compile".
+To do both use "make all".
+
+For explanation of the parser use "./parser -h".
